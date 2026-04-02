@@ -20,7 +20,7 @@ ENV/
 .vscode/
 *.code-workspace
 
-# macOS (spécifique Mac)
+# macOS
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -29,12 +29,13 @@ ENV/
 # Thumbnails
 Thumbs.db
 
-# Data files (optionnel - décommente si tu ne veux pas versionner tes données)
-# data/*.csv
+# Data files - PRIVATE HEALTH DATA
+data/
+*.csv
 
-# Results (si tu ne veux pas versionner les images)
-# results/*.png
-# results/*.pdf
+# Results (generated visualizations - can be recreated)
+results/*.png
+results/*.pdf
 
 # Logs
 *.log
