@@ -1,7 +1,7 @@
 # Custom Readiness Score Algorithm
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > Personalized recovery algorithm developed through analysis of 164 days of Oura Ring biometric data
