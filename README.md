@@ -125,7 +125,7 @@ Contrary to conventional wisdom that prioritizes HRV, my data shows **Resting He
 ## Visualizations
 
 ### Correlation Heatmap
-![Correlation Heatmap](/Users/tim/Projects/custom-readiness-score/results/correlation_heatmap.png)
+![Correlation Heatmap](results/correlation_heatmap.png)
 
 Key relationships between 9 primary recovery metrics, highlighting RHR's central role and HRV-sleep independence.
 
