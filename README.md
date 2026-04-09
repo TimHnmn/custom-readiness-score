@@ -129,11 +129,12 @@ Contrary to conventional wisdom that prioritizes HRV, my data shows **Resting He
 
 Key relationships between 9 primary recovery metrics, highlighting RHR's central role and HRV-sleep independence.
 
-### Weekly Pattern Analysis
-*[Image placeholder - bar chart will be added]*
+### Additional Visualizations (In Progress)
 
-Average Readiness Score by day of week, showing consistent weekend advantage and mid-week dip.
-
+The following visualizations will be added upon completion of notebook 04:
+- Weekly recovery pattern (bar chart by day of week)
+- Time series trends with rolling averages
+- HRV vs Readiness scatter plot
 ---
 
 ## 🛠️ Tech Stack
