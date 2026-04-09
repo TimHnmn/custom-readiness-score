@@ -34,8 +34,8 @@ data/
 *.csv
 
 # Results (generated visualizations - can be recreated)
-results/*.png
-results/*.pdf
+# results/*.png
+# results/*.pdf
 
 # Logs
 *.log
