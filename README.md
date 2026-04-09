@@ -1,10 +1,10 @@
-# Custom Readiness Score Algorithm
+# Custom Readiness Score Model
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> Personalized recovery algorithm developed through analysis of 164 days of Oura Ring biometric data
+> Personalized recovery model developed through analysis of 164 days of Oura Ring biometric data
 
 ---
 
@@ -125,7 +125,7 @@ Contrary to conventional wisdom that prioritizes HRV, my data shows **Resting He
 ## Visualizations
 
 ### Correlation Heatmap
-*[Image placeholder - heatmap will be added]*
+![Correlation Heatmap](/Users/tim/Projects/custom-readiness-score/results/correlation_heatmap.png)
 
 Key relationships between 9 primary recovery metrics, highlighting RHR's central role and HRV-sleep independence.
 
@@ -188,17 +188,6 @@ custom-readiness-score/
 - ⏳ Performance benchmarking vs Oura
 - ⏳ Modular code refactoring (src/)
 - ⏳ Interactive dashboard (optional)
-
----
-
-## Learnings & Skills Demonstrated
-
-- **Data Pipeline:** End-to-end workflow from raw export to insights
-- **Statistical Analysis:** Correlation studies, pattern identification
-- **Domain Knowledge:** Wearable data, physiological metrics interpretation
-- **Critical Thinking:** Challenging conventional wisdom (HRV primacy)
-- **Scientific Method:** Hypothesis testing, empirical validation
-- **Communication:** Translating technical findings into actionable insights
 
 ---
 
